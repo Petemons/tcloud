@@ -50,7 +50,7 @@ $ docker run -d \
 ```
 
 ## Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lunik/tcloud)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gavbn/tcloud)
 /!\ Heroku don't store any data. Once your app shutdown, you will loose all your login and your files.
 To prevent that you can use [kaffeine](http://kaffeine.herokuapp.com/) to keep your app UP 24/24.
 
