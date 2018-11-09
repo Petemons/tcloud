@@ -11,7 +11,7 @@
   "env": {
     "MASTER_KEY": {
       "description": "The key to administrate the app.",
-      "required": true
+      "required": false
     },
     "TORRENT_PROVIDERS": {
       "description": "Torrent providers for search engine, see \"https://github.com/JimmyLaurent/torrent-search-api#supported-providers\" for a list of supported provides.",
